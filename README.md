@@ -36,3 +36,16 @@ Runs tests in console, in browser or with coverage.
 ### `lint`, `prettier`
 
 Runs linting and formatting for all files in `src` folder.
+
+
+### `cdk`
+
+- `cdk:bs` Bootstrap your AWS environment for CDK
+- `cdk:deploy` Deploy to your default AWS account/region
+- `cdk:destroy` Remove CDK stacks and associated resources
+
+## Deploy links
+
+Task 2.1:
+
+- S3 bucket (public accessible): [http://rs.s3-website-ap-southeast-1.amazonaws.com/](https://rsawsbucket.s3.ap-southeast-1.amazonaws.com/)
